@@ -1,0 +1,83 @@
+.center {
+    border: 2px solid black;
+    width: 250px;
+    margin: 0 auto;
+    box-shadow: 2px 4px 4px;
+    border-radius: 10px;
+    /* background-color: rgb(28, 116, 86); */
+}
+
+h1 {
+    text-shadow: 2px 2px rgb(240, 240, 49);
+    /* text-transform: uppercase; */
+    text-decoration: underline;
+}
+
+.result {
+    width: 98%;
+    background-color: rgb(248, 248, 241);
+    color: black;
+    /* border-bottom: none; */
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 45px;
+    text-align: right;
+}
+
+.cbtn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: lightsteelblue;
+    border-radius: 45px;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+    cursor: pointer;
+}
+
+.btn {
+    width: 23%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 45%;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    box-shadow: -1px -5px 5px gray;
+    cursor: pointer;
+}
+
+.btnli {
+    width: 130px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 45%;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    box-shadow: -1px -5px 5px gray;
+}
+
+.btnl {
+    width: 50px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 45%;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    box-shadow: -1px -5px 5px gray;
+}
+
+.equalBtn {
+    background-color: #fb7c14;
+}
+
+.operator {
+    color: #6dee0a;
+}
